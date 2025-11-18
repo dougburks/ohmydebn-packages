@@ -4,7 +4,7 @@ Hash: SHA512
 Origin: Doug Burks
 Label: OhMyDebn Repo
 Codename: trixie
-Date: Tue, 18 Nov 2025 20:08:24 UTC
+Date: Tue, 18 Nov 2025 20:11:35 UTC
 Architectures: amd64 arm64
 Components: main
 Description: Repository for OhMyDebn
@@ -40,17 +40,17 @@ SHA256:
  7230d28b41a0c4517551b1472025f31661cda63667ff6db0b48f67293a639b71 114 main/source/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEmDNkohw30Wq1O5WefYky4+5BudEFAmkc0jkACgkQfYky4+5B
-udHBJBAAl4sokenf93LhD9RnRDyNVu+WgrB+5DTzDV4GP3TfoEletC+fA5xMSsO5
-z5W0t3pK9Sg/wS9VSGwN7hJDbQsIqnspzgBuAMayfDeFPpCqBJf3sqeL/ii4GrK3
-nwOsgr/ABJO32LDNQ8cwUHGWhFHHS87V4+oOXZG3paaVJE0LuGXQEOLZcZLAlBzO
-XlvzogOxxz7hGtlC59lWgCuQOC/fOtqW64IxKpoUyDEddvku9/PV2FlfBt/E3CjJ
-WOK2hZraYTSdRgigFkdnDEhONvuWJs+YzRDd7VkJMVOsVAiFKVb7bZBpgwBGsKhs
-LszDlKBXfoohitzYDw7rxpOqvYVi3e70GYzHUcq33ToatwUvRtBObq86vNgXR4ME
-2GqEKQISAsGaQDIdxQd11B6gjCD0fscKMtcNHa7MVxLXKKE7tyOsMQH9MSJGd5Px
-C6vO1qmi04hlB0obXKS2WehFJV9j2zGUw+JpPrCVi1pQB3nEbOPny+m12QkyxTYV
-p6hZH3xUbMn+8LyRiPLnzWB+FS0Qgcx9eTE324UAaD6ih0+j9prbnoFE6usTcWyf
-LGXoVhfpd3P5YXfdzdytAEuaA3V+4tK97zCbI5yTWiHyN4O7avpWRY7SJyTOpnlu
-KpwOABN4WTIhEVYpAXsuKUWYxu7+BzaG4oiPrYMpD2aNfTWbYj0=
-=WFbK
+iQIzBAEBCgAdFiEEmDNkohw30Wq1O5WefYky4+5BudEFAmkc0vcACgkQfYky4+5B
+udGczw/+NUqDLoFF/CWoz+BhNaRwGjaPjcjTjiErrg/OvVA6+zfzLjlrAhOwZ+BG
+lZULEJGrznTOUvxPFmmAbvGrGm508YqqUQSVw3gi4Et0m44sp1kIvqvRZpGFDO85
+/a/9vGEAvjcbECjJIjCsTUTXEEQ/yk7MdfcqsGtjgxkqBufXevr2ozTnJLK1PQZH
+i0yBKhPbSBfyaZbXwBPzLYDCktQQxPdr0fjvYpUTL6IWT8elRYzZkqaHuTnSlcrf
+Yd8dEf34CdaLneXIJ07wNrAtFW4xDDXvFCjwM1adOkKL5oVR3pKFDb3H7YqaFKsO
+GZm3J+zWI+/RuSGMkpB/b6b1sYz1c6tJxDi+I2DNB5UxhlosSLbxXvOrJcbGiYDL
+yD8douFEQqsM5LRFv9a4miCzSJhSDWs3rGBJajaBOfOM6XV0pbkif7uue/haE0K6
+f+kAz5gUY0nmgR9/wrI/vcxJx692DGBPdcnVV3nfava97pL7GF/1vtcQUdcrm7tb
+4z5XBjkoszlnhhxJQ0XtRbqzVh5982uy+leAX0sjCbHcYfzxAW6U6wtSfEmcKiAj
+YfdJUQsVyexTkUbDPh+7vMuaxWFklE+DtpLu9PFGJdtxMaz0CkW6+LFdK6gA7kHB
+ZZ3xNqZQJ40N0VHbXp+zG0IqJw/3q9y4YnAirMfcyaG8d+7MKWI=
+=L2B7
 -----END PGP SIGNATURE-----
