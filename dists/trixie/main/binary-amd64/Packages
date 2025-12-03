@@ -33,39 +33,56 @@ Description: Mint-X icon theme
  Clearlooks Revamp, Elementary and Faenza.
 
 Package: ohmydebn
-Version: 3.0.0
+Version: 3.1.0
 License: unknown
 Vendor: none
 Architecture: all
 Maintainer: Doug Burks<doug.burks@example.com>
-Installed-Size: 199
-Depends: alacritty, bat, bibata-cursor-theme, binutils, btop, cava, chromium, cinnamon-desktop-environment, curl, eza, ffmpeg, fzf, galculator, gcc, gcolor3, gir1.2-gtk4layershell-1.0, git, gimp, golang, gum, gvfs-backends, htop, imagemagick, iperf3, jq, keepassxc, lazygit, libadwaita-1-dev, libglib2.0-bin, libgtk-4-dev, libnotify-bin, lshw, mint-themes, mint-x-icons, mint-y-icons, neovim, ohmydebn-aether, ohmydebn-gtile, ohmydebn-themes, ohmydebn-themes-omarchy, openvpn, pdftk-java, pipx, pkg-config, python-is-python3, python3-terminaltexteffects, ripgrep, ristretto, rofi, screenfetch, shellcheck, starship, systemd-timesyncd, toilet, toilet-fonts, ufw, vim, wget, xdotool, xournalpp, yaru-theme-gtk, yaru-theme-icon, yq, zip, zoxide, zsh, zsh-autosuggestions, zsh-syntax-highlighting
+Installed-Size: 202
+Depends: alacritty, bat, bibata-cursor-theme, binutils, btop, cava, chromium, cinnamon-desktop-environment, curl, eza, ffmpeg, fzf, galculator, gcc, gcolor3, gir1.2-gtk4layershell-1.0, git, gimp, golang, gum, gvfs-backends, htop, imagemagick, iperf3, jq, keepassxc, lazygit, libadwaita-1-dev, libglib2.0-bin, libgtk-4-dev, libgtk4-layer-shell0, libnotify-bin, lshw, mint-themes, mint-x-icons, mint-y-icons, neovim, ohmydebn-aether, ohmydebn-caskaydiamononerdfont, ohmydebn-caskaydiamononerdfontmono, ohmydebn-caskaydiamononerdfontpropo, ohmydebn-gtile, ohmydebn-themes, ohmydebn-themes-omarchy, openvpn, pdftk-java, pipx, pkg-config, python-is-python3, python3-terminaltexteffects, ripgrep, ristretto, rofi, screenfetch, shellcheck, starship, systemd-timesyncd, toilet, toilet-fonts, ufw, vim, wget, xdotool, xournalpp, yaru-theme-gtk, yaru-theme-icon, yq, zip, zoxide, zsh, zsh-autosuggestions, zsh-syntax-highlighting
 Homepage: https://ohmydebn.org
 Priority: optional
 Section: default
-Filename: pool/main/o/ohmydebn/ohmydebn_3.0.0_all.deb
-Size: 51066
-SHA256: bc8081a5fba2714b1407de2725df5cf2ed776911b49c9130003709555b41e958
-SHA1: 9f72e3e66a09440f3d6137adb2d67fa2cebc2696
-MD5sum: 4b250c2afbc2639e8e1dcfe260c3ce23
+Filename: pool/main/o/ohmydebn/ohmydebn_3.1.0_all.deb
+Size: 52082
+SHA256: f44d525e8a8222c4d19a8ff068268fd4d98379705cf44692df2cce89eef7ab54
+SHA1: bda3cf0feb5b4405bdfadfa941c8d54071937da2
+MD5sum: 8cc4861e0baebfb174b0c8e25df98a2a
 Description: Debonaire Debian + Cinnamon setup inspired by Omarchy
 
 Package: ohmydebn-aether
-Version: 2.17.0
+Version: 2.19.1
 License: unknown
 Vendor: none
 Architecture: all
 Maintainer: Doug Burks<doug.burks@example.com>
-Installed-Size: 1202
+Installed-Size: 1441
 Homepage: https://ohmydebn.org
 Priority: optional
 Section: default
-Filename: pool/main/o/ohmydebn-aether/ohmydebn-aether_2.17.0_all.deb
-Size: 467822
-SHA256: b0a6e7d83fcf64ce82be55b4efc931cf5f80b3030f9df3f1c5d48509912dbfe9
-SHA1: b4c787c56d4dbd85775ad2d7bfe7406ae97b95ea
-MD5sum: 9d011eb64f6e4fc050cc72ec3c668078
+Filename: pool/main/o/ohmydebn-aether/ohmydebn-aether_2.19.1_all.deb
+Size: 523036
+SHA256: 51b5aa68267cf59e4ebd48bc6839856d4d22c0e31b5b30ad7f872ce78a12968b
+SHA1: 6b34be53ecba01d6c545361756eceae733ac7792
+MD5sum: 44a9a6553b37179e5316ca2075f7b042
 Description: Aether theme builder packaged for OhMyDebn
+
+Package: ohmydebn-caskaydiamononerdfont
+Version: 3.4.0
+License: unknown
+Vendor: none
+Architecture: all
+Maintainer: Doug Burks<doug.burks@example.com>
+Installed-Size: 32817
+Homepage: https://ohmydebn.org
+Priority: optional
+Section: default
+Filename: pool/main/o/ohmydebn-caskaydiamononerdfont/ohmydebn-caskaydiamononerdfont_3.4.0_all.deb
+Size: 17702168
+SHA256: 05ace37832660979836e098c7cf7c6cc947416caf305604f5387ffebc54c701d
+SHA1: 320d4868f78298574cbaa36fd3b271b859c933ce
+MD5sum: 70ac8fe883a5bc30d52d42befb9b867c
+Description: Caskaydia Mono Nerd Font packaged for OhMyDebn
 
 Package: ohmydebn-gtile
 Version: 2.2.1
