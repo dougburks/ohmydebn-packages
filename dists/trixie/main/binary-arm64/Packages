@@ -33,7 +33,7 @@ Description: Mint-X icon theme
  Clearlooks Revamp, Elementary and Faenza.
 
 Package: ohmydebn
-Version: 3.2.0
+Version: 3.2.1
 License: unknown
 Vendor: none
 Architecture: all
@@ -43,11 +43,11 @@ Depends: alacritty, bat, bibata-cursor-theme, binutils, btop, cava, chromium, ci
 Homepage: https://ohmydebn.org
 Priority: optional
 Section: default
-Filename: pool/main/o/ohmydebn/ohmydebn_3.2.0_all.deb
-Size: 53148
-SHA256: 7b3a7d940f15d26091ed060ebe1811128b4c12eda7c3a7e1623761fb71db1c79
-SHA1: 53f327724227bfd4f661b4c01f65c7043d763e85
-MD5sum: 3e2dbf873b3743c4b6b940bc9248d307
+Filename: pool/main/o/ohmydebn/ohmydebn_3.2.1_all.deb
+Size: 53172
+SHA256: 248edf8b9736b8fb3d90488aa9db3256cf50d6382151c701a3fd47e772c02d9d
+SHA1: f95fa8f18e72f180da3f06e4e42efe12c0019417
+MD5sum: b1bbfb95fa30451252b7a430478ab327
 Description: Debonaire Debian + Cinnamon setup inspired by Omarchy
 
 Package: ohmydebn-aether
@@ -153,19 +153,19 @@ MD5sum: 3bf02ff96088b34fbcb1e6ce7a0246f9
 Description: Themes for OhMyDebn
 
 Package: ohmydebn-themes-omarchy
-Version: 3.2.0
+Version: 3.2.3
 License: unknown
 Vendor: none
 Architecture: all
 Maintainer: Doug Burks<doug.burks@example.com>
-Installed-Size: 40814
+Installed-Size: 44774
 Homepage: https://ohmydebn.org
 Priority: optional
 Section: default
-Filename: pool/main/o/ohmydebn-themes-omarchy/ohmydebn-themes-omarchy_3.2.0_all.deb
-Size: 40274462
-SHA256: 3a0ac7decb8d1f80b9a94a47744ee6d31cc2155357c0d9c8e4a80dbb6448dca0
-SHA1: 46840e668d04f2b385596f18f3dd7f29b7a6fd33
-MD5sum: 2ceae12492e7861fdac572585ca51e04
+Filename: pool/main/o/ohmydebn-themes-omarchy/ohmydebn-themes-omarchy_3.2.3_all.deb
+Size: 44293516
+SHA256: 7e1a6162ad9c65fac3cbe194da8d02841656ae2afbb529e144d4bb0737050079
+SHA1: 37efc16b872efe0f7fda6ff0d78efed500e38e06
+MD5sum: 98ee440c0a59d589c012d4b648078df6
 Description: Themes from Omarchy packaged for OhMyDebn
 
