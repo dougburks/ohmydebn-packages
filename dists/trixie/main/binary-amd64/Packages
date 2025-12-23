@@ -33,7 +33,7 @@ Description: Mint-X icon theme
  Clearlooks Revamp, Elementary and Faenza.
 
 Package: ohmydebn
-Version: 3.2.2
+Version: 3.2.3
 License: unknown
 Vendor: none
 Architecture: all
@@ -43,28 +43,28 @@ Depends: alacritty, bat, bibata-cursor-theme, binutils, btop, cava, chromium, ci
 Homepage: https://ohmydebn.org
 Priority: optional
 Section: default
-Filename: pool/main/o/ohmydebn/ohmydebn_3.2.2_all.deb
-Size: 53188
-SHA256: a3751bdb8098a179a6c0f28c7cac47f15ac351804d7658940b98cb467668f245
-SHA1: d6cbc579cdd46e8f3d054da850ff882b41445c0c
-MD5sum: 19760803b5397543811cd67bd74ebe7a
+Filename: pool/main/o/ohmydebn/ohmydebn_3.2.3_all.deb
+Size: 53392
+SHA256: 4b3443ec8f6e214ff5353fd920fc9e6d3645e1834cab1c54980847f48be4a85a
+SHA1: 8c3597afee919cbe3c923a5d7421caf7de0cbc2d
+MD5sum: 84b3a0951297ecb9c04b7a7445cb85be
 Description: Debonaire Debian + Cinnamon setup inspired by Omarchy
 
 Package: ohmydebn-aether
-Version: 2.19.1
+Version: 2.20.1
 License: unknown
 Vendor: none
 Architecture: all
 Maintainer: Doug Burks<doug.burks@example.com>
-Installed-Size: 1441
+Installed-Size: 1618
 Homepage: https://ohmydebn.org
 Priority: optional
 Section: default
-Filename: pool/main/o/ohmydebn-aether/ohmydebn-aether_2.19.1_all.deb
-Size: 523036
-SHA256: 51b5aa68267cf59e4ebd48bc6839856d4d22c0e31b5b30ad7f872ce78a12968b
-SHA1: 6b34be53ecba01d6c545361756eceae733ac7792
-MD5sum: 44a9a6553b37179e5316ca2075f7b042
+Filename: pool/main/o/ohmydebn-aether/ohmydebn-aether_2.20.1_all.deb
+Size: 564778
+SHA256: 514b969087f719dd892792cc85bf02721bb28f0c7161b37dd62a658a03674e1c
+SHA1: 95521333b891bd592284045fe01a904055393f7e
+MD5sum: 1530b554a38644fd8945bcd5771b71e4
 Description: Aether theme builder packaged for OhMyDebn
 
 Package: ohmydebn-caskaydiamononerdfont
