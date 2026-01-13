@@ -33,38 +33,38 @@ Description: Mint-X icon theme
  Clearlooks Revamp, Elementary and Faenza.
 
 Package: ohmydebn
-Version: 3.2.4
+Version: 3.3.0
 License: unknown
 Vendor: none
 Architecture: all
 Maintainer: Doug Burks<doug.burks@example.com>
-Installed-Size: 205
-Depends: alacritty, bat, bibata-cursor-theme, binutils, btop, cava, chromium, cinnamon-desktop-environment, curl, eza, ffmpeg, fzf, galculator, gcc, gcolor3, gir1.2-gtk4layershell-1.0, git, gimp, golang, grc, gufw, gum, gvfs-backends, htop, imagemagick, iperf3, jq, keepassxc, lazygit, libadwaita-1-dev, libglib2.0-bin, libgtk-4-dev, libgtk4-layer-shell0, libnotify-bin, libspa-0.2-bluetooth, lshw, mint-themes, mint-x-icons, mint-y-icons, neovim, ohmydebn-aether, ohmydebn-caskaydiamononerdfont, ohmydebn-caskaydiamononerdfontmono, ohmydebn-caskaydiamononerdfontpropo, ohmydebn-gtile, ohmydebn-themes, ohmydebn-themes-omarchy, openvpn, pdftk-java, pipx, pkg-config, python-is-python3, python3-terminaltexteffects, ripgrep, ristretto, rofi, screenfetch, shellcheck, starship, systemd-timesyncd, toilet, toilet-fonts, ufw, vim, wget, xdotool, xournalpp, yaru-theme-gtk, yaru-theme-icon, yq, zip, zoxide, zsh, zsh-autosuggestions, zsh-syntax-highlighting
+Installed-Size: 216
+Depends: alacritty, bat, bibata-cursor-theme, binutils, btop, cava, chromium, cinnamon-desktop-environment, curl, ethtool, eza, ffmpeg, fzf, galculator, gcc, gcolor3, gir1.2-gtk4layershell-1.0, git, gimp, golang, grc, gufw, gum, gvfs-backends, htop, imagemagick, iperf3, jq, keepassxc, lazygit, libadwaita-1-dev, libglib2.0-bin, libgtk-4-dev, libgtk4-layer-shell0, libnotify-bin, libspa-0.2-bluetooth, lshw, mint-themes, mint-x-icons, mint-y-icons, neovim, ohmydebn-aether, ohmydebn-caskaydiamononerdfont, ohmydebn-caskaydiamononerdfontmono, ohmydebn-caskaydiamononerdfontpropo, ohmydebn-gtile, ohmydebn-themes, ohmydebn-themes-omarchy, openvpn, pdftk-java, pipx, pkg-config, python-is-python3, python3-terminaltexteffects, ripgrep, ristretto, rofi, screenfetch, shellcheck, starship, systemd-timesyncd, toilet, toilet-fonts, ufw, vim, wget, xdotool, xournalpp, yaru-theme-gtk, yaru-theme-icon, yq, zip, zoxide, zsh, zsh-autosuggestions, zsh-syntax-highlighting
 Homepage: https://ohmydebn.org
 Priority: optional
 Section: default
-Filename: pool/main/o/ohmydebn/ohmydebn_3.2.4_all.deb
-Size: 53824
-SHA256: c3d44d61e84443c3df501d74d5642ab37c451786fbc51d351b913d36bdacb5af
-SHA1: 5a0187e588ea0372f676f3e6b88c8907c2b5f31a
-MD5sum: a4ac3276a6f45626a91ac64be22540ff
+Filename: pool/main/o/ohmydebn/ohmydebn_3.3.0_all.deb
+Size: 57684
+SHA256: 2a57fab65c12892f70e67a0dbbb7822d01f3f458578abe8ea26fa65d70c315d0
+SHA1: 3a7b6456d8d4dd15fe62cb6805aee639397b36b1
+MD5sum: 4e664862f5bf239be1114c7512bdee68
 Description: Debonaire Debian + Cinnamon setup inspired by Omarchy
 
 Package: ohmydebn-aether
-Version: 2.20.1
+Version: 2.20.3
 License: unknown
 Vendor: none
 Architecture: all
 Maintainer: Doug Burks<doug.burks@example.com>
-Installed-Size: 1618
+Installed-Size: 1615
 Homepage: https://ohmydebn.org
 Priority: optional
 Section: default
-Filename: pool/main/o/ohmydebn-aether/ohmydebn-aether_2.20.1_all.deb
-Size: 564778
-SHA256: 514b969087f719dd892792cc85bf02721bb28f0c7161b37dd62a658a03674e1c
-SHA1: 95521333b891bd592284045fe01a904055393f7e
-MD5sum: 1530b554a38644fd8945bcd5771b71e4
+Filename: pool/main/o/ohmydebn-aether/ohmydebn-aether_2.20.3_all.deb
+Size: 564656
+SHA256: ab3914a906b21b1831c7aebdc871e575eb4455d3da61628048163eb58db2a31c
+SHA1: 03498199e99ffc6469d76fca0c5061ebbbc51b09
+MD5sum: 0a42a09dc17741b30c3d678940c3ceb9
 Description: Aether theme builder packaged for OhMyDebn
 
 Package: ohmydebn-caskaydiamononerdfont
@@ -153,19 +153,19 @@ MD5sum: 3bf02ff96088b34fbcb1e6ce7a0246f9
 Description: Themes for OhMyDebn
 
 Package: ohmydebn-themes-omarchy
-Version: 3.2.3
+Version: 3.3.1
 License: unknown
 Vendor: none
 Architecture: all
 Maintainer: Doug Burks<doug.burks@example.com>
-Installed-Size: 44774
+Installed-Size: 48748
 Homepage: https://ohmydebn.org
 Priority: optional
 Section: default
-Filename: pool/main/o/ohmydebn-themes-omarchy/ohmydebn-themes-omarchy_3.2.3_all.deb
-Size: 44293516
-SHA256: 7e1a6162ad9c65fac3cbe194da8d02841656ae2afbb529e144d4bb0737050079
-SHA1: 37efc16b872efe0f7fda6ff0d78efed500e38e06
-MD5sum: 98ee440c0a59d589c012d4b648078df6
+Filename: pool/main/o/ohmydebn-themes-omarchy/ohmydebn-themes-omarchy_3.3.1_all.deb
+Size: 48390616
+SHA256: a8a8df31ec89b575e7e1665f0fb977a57f5a3349aec345ab6c7359a478d39c88
+SHA1: 92d4d1a30971d2eb118aa7e2060889307e231876
+MD5sum: c82bae4e9fe660f6d25458356a535228
 Description: Themes from Omarchy packaged for OhMyDebn
 
