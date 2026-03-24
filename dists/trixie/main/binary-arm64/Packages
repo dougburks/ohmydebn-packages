@@ -1,5 +1,5 @@
 Package: cliamp
-Version: 1.24.0
+Version: 1.25.0
 License: MIT
 Vendor: none
 Architecture: arm64
@@ -10,11 +10,11 @@ Recommends: ffmpeg
 Homepage: https://github.com/bjarneo/cliamp
 Priority: optional
 Section: default
-Filename: pool/main/c/cliamp/cliamp_1.24.0_arm64.deb
-Size: 9448352
-SHA256: 6eac7fb9f828dd4f7c6f1dc197fea52ae96f5e6fc16af892d2e1f39078021007
-SHA1: e722da5ce4c38a24f74525409f5c2ab3e35c631c
-MD5sum: 2039b8d86d92f27d6762cb6d64f2e906
+Filename: pool/main/c/cliamp/cliamp_1.25.0_arm64.deb
+Size: 9448992
+SHA256: 92a4c2813b2d9ff6f01273a76d8fd34a5da90195866f1d628697e0e3e03bddce
+SHA1: 3ab0a877f87354dd44680ccadf55d4b86b39dc00
+MD5sum: 297dae19c7e7e1f452acfc750c54d391
 Description: Retro terminal music player inspired by Winamp
 
 Package: mint-themes
@@ -52,7 +52,7 @@ Description: Mint-X icon theme
  Clearlooks Revamp, Elementary and Faenza.
 
 Package: ohmydebn
-Version: 3.4.7
+Version: 3.4.8
 License: unknown
 Vendor: none
 Architecture: all
@@ -62,15 +62,15 @@ Depends: alacritty, bat, bibata-cursor-theme, binutils, btop, cava, chromium, ch
 Homepage: https://ohmydebn.org
 Priority: optional
 Section: default
-Filename: pool/main/o/ohmydebn/ohmydebn_3.4.7_all.deb
-Size: 74588
-SHA256: 341540edfed6a92651312d3babaaecd24c836e3d9409c33cce13e2c5be63e6d3
-SHA1: 8d08a209aabde4392cd176f8dca245d320b59bd5
-MD5sum: c4d567ec5eef8d7149fb92af0fa28bfc
+Filename: pool/main/o/ohmydebn/ohmydebn_3.4.8_all.deb
+Size: 74604
+SHA256: 5a29e4b147a622a87bb1a748040cc2a1ba54dbe89a83abc31fc2793780b0d943
+SHA1: 387cfc04515ee9b8d9024de8d6389ac63e65eb68
+MD5sum: 47d70ef2ab91b32a9d4e6c26bbfb87bf
 Description: Debonaire Debian + Cinnamon setup inspired by Omarchy
 
 Package: ohmydebn-aether
-Version: 4.3.5
+Version: 4.4.0
 License: MIT
 Vendor: none
 Architecture: arm64
@@ -80,11 +80,11 @@ Depends: libwebkit2gtk-4.1-0, libgtk-3-0, libgtk-layer-shell0, gstreamer1.0-plug
 Homepage: https://github.com/bjarneo/aether
 Priority: optional
 Section: default
-Filename: pool/main/o/ohmydebn-aether/ohmydebn-aether_4.3.5_arm64.deb
-Size: 4148302
-SHA256: 3e3fd226455d20b8cf65adc2d8770779f7bc4ca888e9b733551eb29e5fdcdd51
-SHA1: 373cd78dfd8bb2850ea68a1271adc8e39f761c39
-MD5sum: c34d7778e155d520ff16b10864498f83
+Filename: pool/main/o/ohmydebn-aether/ohmydebn-aether_4.4.0_arm64.deb
+Size: 4153642
+SHA256: fc50c3d7084d59665ec36beaef362ce60b215515a357ecb4514afa137b25306c
+SHA1: 908df10fb7c61fdc814a88261c1b5e74c2bea73e
+MD5sum: 188bd3b1cbcb0750170077a773b4eb28
 Description: Desktop theming application
 
 Package: ohmydebn-caskaydiamononerdfont
