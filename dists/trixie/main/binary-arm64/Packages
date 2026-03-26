@@ -1,5 +1,5 @@
 Package: cliamp
-Version: 1.27.3
+Version: 1.27.8
 License: MIT
 Vendor: none
 Architecture: arm64
@@ -10,11 +10,11 @@ Recommends: ffmpeg
 Homepage: https://github.com/bjarneo/cliamp
 Priority: optional
 Section: default
-Filename: pool/main/c/cliamp/cliamp_1.27.3_arm64.deb
-Size: 9468590
-SHA256: a5c83bb0ea18aaf8c212b4497ed396ccc6fdf49841bc7d4de48264463bf180e1
-SHA1: 35880857de6aecc16c7cd4b9a77ddbe071b6ea8f
-MD5sum: c6f501b625fda8e7ed30c4950724e47b
+Filename: pool/main/c/cliamp/cliamp_1.27.8_arm64.deb
+Size: 9468146
+SHA256: 15f7b819bd4da167fe35dfad03c8d98a6ea46c4b733ab0bc3dc9a9c4865421f5
+SHA1: 431630d5421dee03a5fc47e619bb15bbdf39eb31
+MD5sum: 6ce105be231a1732bc6e6e21ac9cea4c
 Description: Retro terminal music player inspired by Winamp
 
 Package: mint-themes
@@ -52,7 +52,7 @@ Description: Mint-X icon theme
  Clearlooks Revamp, Elementary and Faenza.
 
 Package: ohmydebn
-Version: 3.4.9
+Version: 3.4.10
 License: unknown
 Vendor: none
 Architecture: all
@@ -62,11 +62,11 @@ Depends: alacritty, bat, bibata-cursor-theme, binutils, btop, cava, chromium, ch
 Homepage: https://ohmydebn.org
 Priority: optional
 Section: default
-Filename: pool/main/o/ohmydebn/ohmydebn_3.4.9_all.deb
+Filename: pool/main/o/ohmydebn/ohmydebn_3.4.10_all.deb
 Size: 74600
-SHA256: 145d5fcfb36e86e0e37ffb96b329256216ad9515805cbed62245b34f8b432aeb
-SHA1: ce482b9c167a8aa365d1bf1b7738702e9b8a644a
-MD5sum: 7efa1e331c95abeba28b1b994d7dc319
+SHA256: c9086dc30e89750433b8bcec20e2b888f4bc5cafa8985321276cca84ab974bcc
+SHA1: af353248e68cc74e811dc31d72668a193df62a8a
+MD5sum: 5fe46408a7594ef7682bba00748781be
 Description: Debonaire Debian + Cinnamon setup inspired by Omarchy
 
 Package: ohmydebn-aether
