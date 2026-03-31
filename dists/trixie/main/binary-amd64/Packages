@@ -1,20 +1,20 @@
 Package: cliamp
-Version: 1.29.0
+Version: 1.31.6
 License: MIT
 Vendor: none
 Architecture: amd64
 Maintainer: <doug@doug-ohmydebn>
-Installed-Size: 30285
+Installed-Size: 30383
 Depends: libasound2-plugins, yt-dlp
 Recommends: ffmpeg
 Homepage: https://github.com/bjarneo/cliamp
 Priority: optional
 Section: default
-Filename: pool/main/c/cliamp/cliamp_1.29.0_amd64.deb
-Size: 10793014
-SHA256: 54261d94f81c73dabed7274d19831301ef21c91f311da328e17010380de6be09
-SHA1: 45eac7e2c5d87ff30c8df6f718aa4701d23a4ca8
-MD5sum: 749e286613a6778bba372ab395d98a62
+Filename: pool/main/c/cliamp/cliamp_1.31.6_amd64.deb
+Size: 10832286
+SHA256: 677ce1073fcc9cc80a73c1dc028870c0dc7bdd88fe3407269367802e29b0ed86
+SHA1: 4a6aab870e97f547c7cb881360c598136f74c762
+MD5sum: e7f3f258ca79a09c859741857a606013
 Description: Retro terminal music player inspired by Winamp
 
 Package: mint-themes
@@ -52,7 +52,7 @@ Description: Mint-X icon theme
  Clearlooks Revamp, Elementary and Faenza.
 
 Package: ohmydebn
-Version: 3.4.12
+Version: 3.4.13
 License: unknown
 Vendor: none
 Architecture: all
@@ -62,11 +62,11 @@ Depends: alacritty, bat, bibata-cursor-theme, binutils, btop, cava, chromium, ch
 Homepage: https://ohmydebn.org
 Priority: optional
 Section: default
-Filename: pool/main/o/ohmydebn/ohmydebn_3.4.12_all.deb
-Size: 74598
-SHA256: 6b00f1953f0606e158d8b01a34cbdd0b22a3da401ce19e1bf336bdc9862fae6d
-SHA1: 06073ba92a1100d58f5adbd991aad2ef01047e8b
-MD5sum: 3d0d46713fa54d26645574a1e074d22d
+Filename: pool/main/o/ohmydebn/ohmydebn_3.4.13_all.deb
+Size: 74600
+SHA256: 5c68dfbd1616121d9f6544333dd903f80464b70fa8f0fc1930831027a2a94237
+SHA1: 1a7dded0c5445e1161cf1768577aa72c8fa16997
+MD5sum: 4ba4934a764e4316ee9daf0484e11590
 Description: Debonaire Debian + Cinnamon setup inspired by Omarchy
 
 Package: ohmydebn-aether
