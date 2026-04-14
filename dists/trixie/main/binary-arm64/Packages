@@ -325,6 +325,23 @@ SHA1: 3105b364a05a7cb74417cc39ac6dd2e7f52b6ed3
 MD5sum: 87b71f30fbe2cef72a1b642747cf816f
 Description: kanagawa theme from Omarchy packaged for OhMyDebn
 
+Package: ohmydebn-themes-lumon
+Version: 3.5.0
+License: unknown
+Vendor: none
+Architecture: all
+Maintainer: Doug Burks<doug.burks@example.com>
+Installed-Size: 2454
+Homepage: https://ohmydebn.org
+Priority: optional
+Section: default
+Filename: pool/main/o/ohmydebn-themes-lumon/ohmydebn-themes-lumon_3.5.0_all.deb
+Size: 2333636
+SHA256: fba27019d7e5e660d22c6265ea05b68cd8afa57048ff06142b686c09de4e66dc
+SHA1: 3c807c5319fde987fd5f027464cdd8fdace7bfbf
+MD5sum: ed9e5ebbf0dce35447ccc924e18e0cea
+Description: lumon theme from Omarchy packaged for OhMyDebn
+
 Package: ohmydebn-themes-matte-black
 Version: 3.5.0
 License: unknown
@@ -410,6 +427,23 @@ SHA256: 973fcb7a3e2044357b39ec41587c90e3b305c96998fcd5dd97e9ace315581b0b
 SHA1: fd135f21234ec116637b463d83533be14e9b2b17
 MD5sum: 09e0eeaa5b889a175a144065d10795fb
 Description: osaka-jade theme from Omarchy packaged for OhMyDebn
+
+Package: ohmydebn-themes-retro-82
+Version: 3.5.0
+License: unknown
+Vendor: none
+Architecture: all
+Maintainer: Doug Burks<doug.burks@example.com>
+Installed-Size: 16669
+Homepage: https://ohmydebn.org
+Priority: optional
+Section: default
+Filename: pool/main/o/ohmydebn-themes-retro-82/ohmydebn-themes-retro-82_3.5.0_all.deb
+Size: 16742908
+SHA256: 73f021bce10e56dcb43fff51cb3b6223c4b2929181fc6adde0060d72198aff12
+SHA1: bc072203c524bdbddaec6a3afd60c4dab8f54813
+MD5sum: cffa25f67637aad314cf8b2ab0b57a87
+Description: retro-82 theme from Omarchy packaged for OhMyDebn
 
 Package: ohmydebn-themes-ristretto
 Version: 3.5.0
