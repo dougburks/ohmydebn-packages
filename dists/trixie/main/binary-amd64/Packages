@@ -1,20 +1,20 @@
 Package: cliamp
-Version: 1.35.1
+Version: 1.35.2
 License: MIT
 Vendor: none
 Architecture: amd64
 Maintainer: <doug@doug-ohmydebn>
-Installed-Size: 31674
+Installed-Size: 31686
 Depends: libasound2-plugins, yt-dlp
 Recommends: ffmpeg
 Homepage: https://github.com/bjarneo/cliamp
 Priority: optional
 Section: default
-Filename: pool/main/c/cliamp/cliamp_1.35.1_amd64.deb
-Size: 11301828
-SHA256: f1481cf9230f5db0dabefa8bc6e2fcbdd3b03f806e51a919dd96286f50752cec
-SHA1: 4abc97efd2426244eb6ca4ac69d3637791ecb8ce
-MD5sum: d49ea3982b004b326905d9d8204cc426
+Filename: pool/main/c/cliamp/cliamp_1.35.2_amd64.deb
+Size: 11305998
+SHA256: 25af14acb65502a124e010878408065f0821055d85fa0ffd09bbc0aecc57ed18
+SHA1: 1bcc8f6f112a18911b1d4149e8086ab81028e1a7
+MD5sum: ee6d821b1e3b7ca8085d69dfd49d7cdd
 Description: Retro terminal music player inspired by Winamp
 
 Package: mint-themes
@@ -52,7 +52,7 @@ Description: Mint-X icon theme
  Clearlooks Revamp, Elementary and Faenza.
 
 Package: ohmydebn
-Version: 3.5.1
+Version: 3.5.2
 License: unknown
 Vendor: none
 Architecture: all
@@ -62,29 +62,29 @@ Depends: alacritty, bat, bibata-cursor-theme, binutils, btop, cava, chromium, ch
 Homepage: https://ohmydebn.org
 Priority: optional
 Section: default
-Filename: pool/main/o/ohmydebn/ohmydebn_3.5.1_all.deb
+Filename: pool/main/o/ohmydebn/ohmydebn_3.5.2_all.deb
 Size: 74926
-SHA256: df57ef631097c2d9960d3b0e58b0e98ac2cf1a93315b1de9f10cbaed0ea8a3dc
-SHA1: 2281a595dcb27cb2d31f00b93ce3e79766f90f74
-MD5sum: aeffce12316785c1f227036726df781e
+SHA256: dcc0708d2407ee9f9b2ec25c531eca173d7401e33c3d7dde51b23946b1586f3f
+SHA1: 0c19602180292b4d776d94ff102bff6e3a90feb3
+MD5sum: 137280c26843c7a88fa5fbc1787a6bee
 Description: Debonaire Debian + Cinnamon setup inspired by Omarchy
 
 Package: ohmydebn-aether
-Version: 4.8.2
+Version: 4.9.0
 License: MIT
 Vendor: none
 Architecture: amd64
 Maintainer: <doug@doug-ohmydebn>
-Installed-Size: 11139
+Installed-Size: 11143
 Depends: libwebkit2gtk-4.1-0, libgtk-3-0, libgtk-layer-shell0, gstreamer1.0-plugins-good, ffmpeg
 Homepage: https://github.com/bjarneo/aether
 Priority: optional
 Section: default
-Filename: pool/main/o/ohmydebn-aether/ohmydebn-aether_4.8.2_amd64.deb
-Size: 4593236
-SHA256: 2a0beb191fb72c2ea657b5cb461e40dbdfd3f7b1e9209528010206ebabf272ea
-SHA1: 93e76ef58e32b8422a5b1116c8765b0815587b95
-MD5sum: c39a387607663c457fe5d6c69e3b37d5
+Filename: pool/main/o/ohmydebn-aether/ohmydebn-aether_4.9.0_amd64.deb
+Size: 4593784
+SHA256: ce27eec25e527ffed9aad5f7c1bfe3191f2157e3ed96a452bd5efc2e3622871d
+SHA1: de2b0e63c81c2431189306d1b421544159f09088
+MD5sum: ac26af3f78fb7c949abac8ba15b83329
 Description: Desktop theming application
 
 Package: ohmydebn-caskaydiamononerdfont
