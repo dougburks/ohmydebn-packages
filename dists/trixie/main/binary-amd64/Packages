@@ -1,20 +1,20 @@
 Package: cliamp
-Version: 1.35.2
+Version: 1.37.3
 License: MIT
 Vendor: none
 Architecture: amd64
 Maintainer: <doug@doug-ohmydebn>
-Installed-Size: 31686
+Installed-Size: 31678
 Depends: libasound2-plugins, yt-dlp
 Recommends: ffmpeg
 Homepage: https://github.com/bjarneo/cliamp
 Priority: optional
 Section: default
-Filename: pool/main/c/cliamp/cliamp_1.35.2_amd64.deb
-Size: 11305998
-SHA256: 25af14acb65502a124e010878408065f0821055d85fa0ffd09bbc0aecc57ed18
-SHA1: 1bcc8f6f112a18911b1d4149e8086ab81028e1a7
-MD5sum: ee6d821b1e3b7ca8085d69dfd49d7cdd
+Filename: pool/main/c/cliamp/cliamp_1.37.3_amd64.deb
+Size: 11304840
+SHA256: 75c0af37ea85e81b93be0c7963a401e75179f0bb8ef0ebf0f0a5decb9639b3c0
+SHA1: cac6799844db11d24af3194acb535e2b510dee77
+MD5sum: 3b0465a7989527275aaa9f32d2b0455b
 Description: Retro terminal music player inspired by Winamp
 
 Package: mint-themes
@@ -52,39 +52,39 @@ Description: Mint-X icon theme
  Clearlooks Revamp, Elementary and Faenza.
 
 Package: ohmydebn
-Version: 3.5.2
+Version: 3.5.3
 License: unknown
 Vendor: none
 Architecture: all
 Maintainer: Doug Burks<doug.burks@example.com>
 Installed-Size: 265
-Depends: alacritty, bat, bibata-cursor-theme, binutils, btop, cava, chromium, chrony, cinnamon-desktop-environment, curl, ethtool, eza, ffmpeg, fzf, galculator, gcc, gcolor3, gir1.2-gtk4layershell-1.0, git, gimp, grc, gufw, gum, gvfs-backends, htop, imagemagick, iperf3, jq, keepassxc, lazygit, libadwaita-1-dev, libglib2.0-bin, libgtk-4-dev, libgtk4-layer-shell0, libnotify-bin, libspa-0.2-bluetooth, lshw, mint-themes, mint-x-icons, mint-y-icons, neovim, ohmydebn-aether, ohmydebn-caskaydiamononerdfont, ohmydebn-caskaydiamononerdfontmono, ohmydebn-caskaydiamononerdfontpropo, ohmydebn-gtile, ohmydebn-templates, ohmydebn-themes, ohmydebn-themes-omarchy, openvpn, pdftk-java, pipx, pkg-config, python-is-python3, python3-terminaltexteffects, ripgrep, ristretto, rofi, rsync, screenfetch, shellcheck, starship, toilet, toilet-fonts, traceroute, ufw, vim, wget, xdotool, xournalpp, yaru-theme-gtk, yaru-theme-icon, yq, zip, zoxide, zsh, zsh-autosuggestions, zsh-syntax-highlighting
+Depends: alacritty, bat, bibata-cursor-theme, binutils, btop, cava, chromium, chrony, cinnamon-desktop-environment, curl, duf, ethtool, eza, ffmpeg, fzf, galculator, gcc, gcolor3, gir1.2-gtk4layershell-1.0, git, gimp, grc, gufw, gum, gvfs-backends, htop, imagemagick, iperf3, jq, keepassxc, lazygit, libadwaita-1-dev, libglib2.0-bin, libgtk-4-dev, libgtk4-layer-shell0, libnotify-bin, libspa-0.2-bluetooth, lshw, mint-themes, mint-x-icons, mint-y-icons, neovim, ohmydebn-aether, ohmydebn-caskaydiamononerdfont, ohmydebn-caskaydiamononerdfontmono, ohmydebn-caskaydiamononerdfontpropo, ohmydebn-gtile, ohmydebn-templates, ohmydebn-themes, ohmydebn-themes-omarchy, openvpn, pdftk-java, pipx, pkg-config, python-is-python3, python3-terminaltexteffects, ripgrep, ristretto, rofi, rsync, screenfetch, shellcheck, starship, toilet, toilet-fonts, traceroute, ufw, vim, wget, xdotool, xournalpp, yaru-theme-gtk, yaru-theme-icon, yq, zip, zoxide, zsh, zsh-autosuggestions, zsh-syntax-highlighting
 Homepage: https://ohmydebn.org
 Priority: optional
 Section: default
-Filename: pool/main/o/ohmydebn/ohmydebn_3.5.2_all.deb
-Size: 74926
-SHA256: dcc0708d2407ee9f9b2ec25c531eca173d7401e33c3d7dde51b23946b1586f3f
-SHA1: 0c19602180292b4d776d94ff102bff6e3a90feb3
-MD5sum: 137280c26843c7a88fa5fbc1787a6bee
+Filename: pool/main/o/ohmydebn/ohmydebn_3.5.3_all.deb
+Size: 74964
+SHA256: 3950f3765afcebcc40040a4bbb0305826d412b56b22fffd2bc6cdb8cbfcf093d
+SHA1: 0c5c609ce9971c4d70e439d81c37c447b4bd8a51
+MD5sum: 2d3f78fd27796df19edf7beed246d91c
 Description: Debonaire Debian + Cinnamon setup inspired by Omarchy
 
 Package: ohmydebn-aether
-Version: 4.9.0
+Version: 4.12.1
 License: MIT
 Vendor: none
 Architecture: amd64
 Maintainer: <doug@doug-ohmydebn>
-Installed-Size: 11143
+Installed-Size: 11203
 Depends: libwebkit2gtk-4.1-0, libgtk-3-0, libgtk-layer-shell0, gstreamer1.0-plugins-good, ffmpeg
 Homepage: https://github.com/bjarneo/aether
 Priority: optional
 Section: default
-Filename: pool/main/o/ohmydebn-aether/ohmydebn-aether_4.9.0_amd64.deb
-Size: 4593784
-SHA256: ce27eec25e527ffed9aad5f7c1bfe3191f2157e3ed96a452bd5efc2e3622871d
-SHA1: de2b0e63c81c2431189306d1b421544159f09088
-MD5sum: ac26af3f78fb7c949abac8ba15b83329
+Filename: pool/main/o/ohmydebn-aether/ohmydebn-aether_4.12.1_amd64.deb
+Size: 4611978
+SHA256: f4f29ac4511bdad1d99b14ac176eea46424e7eed4f168b80c7533f4a6fd541e2
+SHA1: 91f3d2e62b02b163737306bdd21d5c31a5595133
+MD5sum: fb033a4f2c795622ae9c8d983abcc985
 Description: Desktop theming application
 
 Package: ohmydebn-caskaydiamononerdfont
