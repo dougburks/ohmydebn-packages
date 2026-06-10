@@ -1,20 +1,20 @@
 Package: cliamp
-Version: 1.54.0
+Version: 1.57.0
 License: MIT
 Vendor: none
 Architecture: amd64
 Maintainer: <doug@doug-ohmydebn>
-Installed-Size: 32246
+Installed-Size: 32274
 Depends: libasound2-plugins, yt-dlp
 Recommends: ffmpeg
 Homepage: https://github.com/bjarneo/cliamp
 Priority: optional
 Section: default
-Filename: pool/main/c/cliamp/cliamp_1.54.0_amd64.deb
-Size: 11524506
-SHA256: b4ad337575b8c46e104855a65d04aac332ba1a021913f949efa7af6e5b70bcd1
-SHA1: c16f5a639f97c6c07b01268f99e4d5a1cc4f2287
-MD5sum: 8e7316e465f67be2a7d8c23f08798cc6
+Filename: pool/main/c/cliamp/cliamp_1.57.0_amd64.deb
+Size: 11538484
+SHA256: 908edd8ccc5eaf77f0cb3d5b070ec6770b5d521ac58bf40b1f1e1262cd899063
+SHA1: 2e9cb1d0996a694279883eeb01a1ffc26ea915ab
+MD5sum: 491a3fb4c84cd76d8baad5a160ae8f5e
 Description: Retro terminal music player inspired by Winamp
 
 Package: localsend
@@ -71,7 +71,7 @@ Description: Mint-X icon theme
  Clearlooks Revamp, Elementary and Faenza.
 
 Package: ohmydebn
-Version: 3.8.2
+Version: 3.8.3
 License: unknown
 Vendor: none
 Architecture: all
@@ -81,29 +81,29 @@ Depends: alacritty, bat, bibata-cursor-theme, binutils, btop, cava, chromium, ch
 Homepage: https://ohmydebn.org
 Priority: optional
 Section: default
-Filename: pool/main/o/ohmydebn/ohmydebn_3.8.2_all.deb
-Size: 74934
-SHA256: d507c9695aa6d604dd5c8392409097340e8b3b7c1622d977f887de0738812b68
-SHA1: 9cc436084aa32480bb3841083d328288819cafa2
-MD5sum: 0b0704d94f72ecfcfa0bd4852a07020f
+Filename: pool/main/o/ohmydebn/ohmydebn_3.8.3_all.deb
+Size: 75074
+SHA256: 8e96ca75586455207326f2442c311fbe362db8b442841a983e42fb6ea7533cea
+SHA1: 0b6ea4c1f0d1346861515893d6a1091bb313b57e
+MD5sum: b0bb365b97dccdd9f9203ccb6da59845
 Description: Debonaire Debian + Cinnamon setup inspired by Omarchy
 
 Package: ohmydebn-aether
-Version: 4.22.0
+Version: 4.27.2
 License: MIT
 Vendor: none
 Architecture: amd64
 Maintainer: <doug@doug-ohmydebn>
-Installed-Size: 11339
+Installed-Size: 11505
 Depends: libwebkit2gtk-4.1-0, libgtk-3-0, libgtk-layer-shell0, gstreamer1.0-plugins-good, ffmpeg
 Homepage: https://github.com/bjarneo/aether
 Priority: optional
 Section: default
-Filename: pool/main/o/ohmydebn-aether/ohmydebn-aether_4.22.0_amd64.deb
-Size: 4662266
-SHA256: acd22f8ef9356955af2c26643d9da68e929daf20ca9b33aa08a780565d0d5da8
-SHA1: f5fde3ca8861895d7e12ca55db474ad334b35a8e
-MD5sum: 5bac3bdba359f2a99601a3da8cc30097
+Filename: pool/main/o/ohmydebn-aether/ohmydebn-aether_4.27.2_amd64.deb
+Size: 4718640
+SHA256: 4c52a7b7929784d13686d3c11fe7c0ab9526d01cd57d1616ce061ef55e7c6db1
+SHA1: f51dddfcdc170d1fc398d12d6683ad8dfbab7ea4
+MD5sum: 4c1bb91c7a8c07b9ba5b4890fee81189
 Description: Desktop theming application
 
 Package: ohmydebn-caskaydiamononerdfont
@@ -175,20 +175,20 @@ MD5sum: 2c64e2d019721fae9b14ad41357ab3f5
 Description: gtile-OhMyDebn extension for Cinnamon desktop
 
 Package: ohmydebn-opencode-cli
-Version: 1.15.11
+Version: 1.17.0
 License: MIT
 Vendor: none
 Architecture: amd64
 Maintainer: <doug@doug-ohmydebn>
-Installed-Size: 141774
+Installed-Size: 153246
 Homepage: https://github.com/anomalyco/opencode
 Priority: optional
 Section: default
-Filename: pool/main/o/ohmydebn-opencode-cli/ohmydebn-opencode-cli_1.15.11_amd64.deb
-Size: 49776920
-SHA256: 82bf3c9185634335ec1913eb2094782fda69a60a7bf2763c8731bab7752f1ecf
-SHA1: 1f993a9e66d9e546d96b11fe79e3a5aa2245e8fb
-MD5sum: f721b0efdd49f57228221fc6cccb06ee
+Filename: pool/main/o/ohmydebn-opencode-cli/ohmydebn-opencode-cli_1.17.0_amd64.deb
+Size: 53329704
+SHA256: 8fec3f6562553f4a6c1aa03b9010a6c06b745ac597f4e47bf5c0525df1d3d6c6
+SHA1: 62d9c09569dd863a69e00387db312f52624639a9
+MD5sum: bb31e7bb3a0207df765b123a17f5b76b
 Description: The open source AI coding agent
 
 Package: ohmydebn-templates
