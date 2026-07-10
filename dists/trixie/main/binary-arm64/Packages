@@ -71,7 +71,7 @@ Description: Mint-X icon theme
  Clearlooks Revamp, Elementary and Faenza.
 
 Package: ohmydebn
-Version: 3.8.7
+Version: 3.8.8
 License: unknown
 Vendor: none
 Architecture: all
@@ -81,11 +81,11 @@ Depends: alacritty, bat, bibata-cursor-theme, binutils, btop, cava, chromium, ch
 Homepage: https://ohmydebn.org
 Priority: optional
 Section: default
-Filename: pool/main/o/ohmydebn/ohmydebn_3.8.7_all.deb
-Size: 76682
-SHA256: d03a1e8afb16f7b8952f556a29d2459a45aa061c8ee68bb52b761b30c7810a75
-SHA1: 3d7e06e21038d7cc8481ba72653e2c295345941e
-MD5sum: 2ccf32b380d32b69d8a2f11f1dd2e4cd
+Filename: pool/main/o/ohmydebn/ohmydebn_3.8.8_all.deb
+Size: 76670
+SHA256: e35a2fa37b5b31263a090d4b2fdb7e533afb208b89155b590ac794f17969499b
+SHA1: fa4f3c19edeb9e9816afa13a50cff95951ebdc6d
+MD5sum: 51dcd57970207de9219faf8e47a3db65
 Description: Debonaire Debian + Cinnamon setup inspired by Omarchy
 
 Package: ohmydebn-aether
@@ -175,20 +175,20 @@ MD5sum: 2c64e2d019721fae9b14ad41357ab3f5
 Description: gtile-OhMyDebn extension for Cinnamon desktop
 
 Package: ohmydebn-opencode-cli
-Version: 1.17.14
+Version: 1.17.18
 License: MIT
 Vendor: none
 Architecture: arm64
 Maintainer: <doug@doug-ohmydebn>
-Installed-Size: 170986
+Installed-Size: 184042
 Homepage: https://github.com/anomalyco/opencode
 Priority: optional
 Section: default
-Filename: pool/main/o/ohmydebn-opencode-cli/ohmydebn-opencode-cli_1.17.14_arm64.deb
-Size: 56768114
-SHA256: e94fe323e0ac55cea6434e390170e1502dffb7e8f2769c49dbad1deb20969eee
-SHA1: 9d0514152376b99ba242cfa44fbace15ca906467
-MD5sum: 5e679fd7e06a2faf0171c1fd594763f1
+Filename: pool/main/o/ohmydebn-opencode-cli/ohmydebn-opencode-cli_1.17.18_arm64.deb
+Size: 69033630
+SHA256: b1d67a83a50e5d1cdceec7932d84b0a14c234f53127e2d86b47265d9102b832f
+SHA1: 965e8cc94b473656b50d616b61d0b49935b49aee
+MD5sum: 3a83b516cb90115fdc073b82177533fd
 Description: The open source AI coding agent
 
 Package: ohmydebn-templates
